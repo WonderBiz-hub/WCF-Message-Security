@@ -1,0 +1,31 @@
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csprojAssemblyReference.cache
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csprojAssemblyReference.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csprojAssemblyReference.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\bin\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csprojAssemblyReference.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFClientProject\WCFServiceClient\obj\Debug\WCFServiceClient.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Binaries & Cer\Client Binaries\WCFServiceClient.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Binaries & Cer\Client Binaries\WCFServiceClient.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Binaries & Cer\Client Binaries\WCFServiceClient.pdb
