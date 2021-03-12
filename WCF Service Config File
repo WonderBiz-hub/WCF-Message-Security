@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<configuration>  
+    <startup>  
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />  
+    </startup>  
+    <system.serviceModel>  
+        <behaviors>  
+            <serviceBehaviors>  
+                <behavior name="SecurityBehavior">  
+                    <serviceDebug includeExceptionDetailInFaults="True" />  
+                    <serviceCredentials>  
+                        <serviceCertificate findValue="ServerCert" storeLocation="CurrentUser" storeName="My" x509FindType="FindBySubjectName" />  
+                        <clientCertificate>  
+                            <authentication certificateValidationMode="PeerTrust" trustedStoreLocation="LocalMachine" revocationMode="NoCheck"  
+mapClientCertificateToWindowsAccount="false" />  
+                        </clientCertificate>  
+                    </serviceCredentials>  
+                </behavior>  
+            </serviceBehaviors>  
+        </behaviors>  
+        <services>  
+            <service name="SampleWCFServiceLibrary.Service1" behaviorConfiguration="SecurityBehavior">  
+                <endpoint address="Service1" binding="netTcpBinding" contract="SampleWCFServiceLibrary.IService1" bindingConfiguration="SecuredBinding"></endpoint>  
+                <host>  
+                    <baseAddresses>  
+                        <add baseAddress="net.tcp://192.168.1.48:8798"/>  
+                    </baseAddresses>  
+                </host>  
+            </service>  
+        </services>  
+        <bindings>  
+            <netTcpBinding>  
+                <binding name="SecuredBinding" >  
+                    <security mode="Message">  
+                        <message clientCredentialType="Certificate" ></message>  
+                    </security>  
+                </binding>  
+            </netTcpBinding>  
+        </bindings>  
+    </system.serviceModel>  
+</configuration>
