@@ -1,0 +1,46 @@
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe.config
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.pdb
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csprojAssemblyReference.cache
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.exe
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.pdb
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.pdb
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll.config
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CopyComplete
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CopyComplete
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csprojAssemblyReference.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CopyComplete
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 2\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\bin\Debug\ServiceHostConsoleApp.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\bin\Debug\SampleWCFServiceLibrary.dll.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csprojAssemblyReference.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.csproj.CopyComplete
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\ServiceHostConsoleApp\obj\Debug\ServiceHostConsoleApp.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Binaries & Cer\Service Binaries\ServiceHostConsoleApp.exe.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Binaries & Cer\Service Binaries\ServiceHostConsoleApp.exe
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Binaries & Cer\Service Binaries\ServiceHostConsoleApp.pdb
