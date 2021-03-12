@@ -1,0 +1,14 @@
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\bin\Debug\SampleWCFServiceLibrary.dll.config
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\bin\Debug\SampleWCFServiceLibrary.dll
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\bin\Debug\SampleWCFServiceLibrary.pdb
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.csprojAssemblyReference.cache
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.dll
+C:\Users\sandesh.salunke\Desktop\Certificates\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\bin\Debug\SampleWCFServiceLibrary.dll.config
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\bin\Debug\SampleWCFServiceLibrary.dll
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\bin\Debug\SampleWCFServiceLibrary.pdb
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.csprojAssemblyReference.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.csproj.CoreCompileInputs.cache
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.dll
+E:\Sandesh\CA\CA1.4\IntelaTrack\Certificates Authentication\Approach 3\WCFServerProject\SampleWCFServiceLibrary\obj\Debug\SampleWCFServiceLibrary.pdb
